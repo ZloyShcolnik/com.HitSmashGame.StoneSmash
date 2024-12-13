@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020218450424",
+    "project_id": "stone-smash-344de",
+    "storage_bucket": "stone-smash-344de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020218450424:android:381ac675bea47f19e5b60d",
+        "android_client_info": {
+          "package_name": "com.HitSmashGame.StoneSmash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhd8zVUtQVPoqfSK86aGoai_0i5nN0To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
